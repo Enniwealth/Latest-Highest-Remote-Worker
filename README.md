@@ -109,35 +109,5 @@
 - *UN Jobs* → Policy/research roles open globally: [https://unjobs.org/](https://unjobs.org/)
 - Additional trusted boards: Remote.co, FlexJobs, or cryptocurrencyjobs.co for fintech legal roles.
 
-1. Job Title: Legal Assistant (Full-Time)
-Company/Firm: The Carr Law Group (boutique personal injury and employment law firm based in Beverly Hills, California; small ~5-person team)
-X Posts where found:  Original: https://x.com/realAdeyemo/status/2036370286610678139 (March 24, 2026)  
-Repost: https://x.com/MrCharlesky/status/2036349063180759121
-
-Detailed responsibilities (from post + thread):  Support legal operations, case management, and day-to-day administrative tasks  
-Work closely with a tight-knit, high-performing team on client matters  
-Proactive support in a fast-paced environment (exact drafting/research not detailed in post but typical for firm legal assistants)
-
-Required qualifications and experience level:  Detail-oriented, proactive, strong communication and organizational skills  
-Comfortable in fast-paced environment  
-No specific years of experience or bar licensing mentioned → appears junior-friendly/entry-level suitable for a law graduate or qualified barrister (your common-law training in research, drafting, and client coordination is highly transferable)  
-Must be able to work within Pacific Time (PT) hours
-
-Key tools/software: Not explicitly listed for the Legal Assistant role, but the firm uses Notion and Google Workspace (mentioned for their companion IT/VA role) → familiarity with Microsoft Office/Google Workspace and basic case management tools is a plus.  Salary or pay range: “Competitive Salary” (not specified numerically)  Job type: Full-time, remote  Time zone requirements: Pacific Time (PT) hours – note this may require schedule flexibility for applicants in Nigeria (NG is UTC+1; PT is UTC-7/8)  Direct application link: Google Form – https://docs.google.com/forms/d/e/1FAIpQLSe8u83e5bThLXve3qvB3zpahheNjT5OHW4Xs_JYLjbjVyjeww/viewform (apply directly; no upfront fees)
-Why legitimate: Real California law firm actively hiring remote support staff (post also appeared in virtual assistant communities). No red flags like payment requests. Open to international remote talent (common for US firms outsourcing VAs).  Other X postings reviewed (not included as primary recommendations):  ElevenLabs Contract Manager (remote US, 3+ years paralegal/contract experience preferred) – more senior, US-focused. X post: https://x.com/gulfcareerhunt/status/2045794529769591044. Official careers page confirms remote-US only.  
-The Freelance Firm’s contract paralegal roles (Texas estate/probate, Florida family law) – require US-state-specific experience; not ideal for international barristers.  
-Multiple vague “Paralegal Virtual Assistant” or general research VA posts – skipped due to lack of company details, generic Gmail applications, or mismatch with “Virtual Legal Assistant” criteria (high scam risk).
-
-Recommended platforms/websites where Virtual Legal Assistant jobs are commonly posted (beyond X):  LinkedIn → Search “Virtual Legal Assistant remote” or “remote paralegal” (1,000+ US listings; many open to international with strong English/common-law background). Filter for “remote” + “entry level” or “no license required.”  
-Upwork / Freelancer → Best for freelance/contract VLA gigs (search “legal virtual assistant,” “legal research,” “contract review,” “document drafting”). Many solo attorneys and small firms hire internationally. Start with proposals highlighting your barrister qualification.  
-Indeed / FlexJobs / Remote.co → Filter “legal assistant remote” or “virtual paralegal” (many contract/full-time).  
-Specialized legal outsourcing → Sites like Belay, Time Etc., or US-based freelance paralegal networks (e.g., The Freelance Firm registration page for their network).
-
-Tips specific to landing a Virtual Legal Assistant role remotely (especially as a Nigerian law graduate/qualified barrister):  Highlight transferable skills: Your barrister training (legal research, drafting documents, client communication, case management) is a strong selling point — emphasize these even for entry/junior roles. No US bar needed for assistant-level support work.  
-Tools to learn/master quickly: Microsoft Office/Google Workspace (mandatory), Clio or MyCase (popular case management — free trials available), basic Notion/Canva for organization.  
-Timezone & setup: Be upfront about availability for US/UK hours. Reliable high-speed internet, quiet workspace, noise-cancelling headset, and Windows/Mac proficiency are often required.  
-Application strategy: Tailor CV to US-style (1 page, quantify achievements). Create a simple portfolio of redacted sample work (research memos, contracts). On Upwork, start with lower-rate gigs to build 5-star reviews.  
-Avoid scams: Never pay upfront fees, avoid “training” costs, and verify companies via official websites/Google. Legitimate postings link to Google Forms, company career pages, or established platforms.  
-Networking boost: Follow X accounts like @careerhoundio
  or legal job posters; engage with solo attorney posts. Join LinkedIn groups for “Virtual Legal Assistants” or “Remote Paralegals.”
 
